@@ -2,18 +2,18 @@
 
 Junior Android developer from Morocco.
 
-## Projects
+### Projects
 
 - SORA — Lightweight Android Image Loader
 - KangaPlayer — Android Media Player for Tv/Radio
 
-## Support
+### Support
 
 If you find my work useful :
 
 ☕ https://ko-fi.com/ekidevs
 
-## Contact
+### Contact
 
 - GitHub Discussions
 - Issues
